@@ -25,7 +25,7 @@
 
 📫 How to Reach Me  
 - 📩 Email: chinmay30joshi@gmail.com 
-- 💼 LinkedIn: github.com/Chinmayjoshi2005
+- 💼 LinkedIn: https://www.linkedin.com/in/chinmay-joshi-7a951130b/
 
 ⚡ Fun Fact  
 - I love exploring new technologies and staying up to date with AI trends!  
