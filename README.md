@@ -10,22 +10,27 @@
 - AI & Machine Learning  
 - Software Development  
 - Generative AI  
-- Open Source Contributions  
+- Open Source Contributions
+- Google cloud
+- AWS fundamentals
 
 🌱 I’m Currently Learning  
-- Image Classification using CNNs  
 - Advanced Python for AI & ML  
 - Web Development
-- Chatbot using NLP 
+- AI
+- ML
+- DL
+- Google Cloud Computing
+- 3d Model creation on Blender
 
 💞️ I’m Looking to Collaborate On  
-- AI/ML Projects  
-- NLP & Chatbot Development  
+- AI/ML Projects
+- Web dev Projects
 - Open Source Contributions  
 
 📫 How to Reach Me  
 - 📩 Email: chinmay30joshi@gmail.com 
-- 💼 LinkedIn: https://www.linkedin.com/in/chinmay-joshi-7a951130b/
+- 💼 LinkedIn: https://www.linkedin.com/in/chinu-30n/
 
 ⚡ Fun Fact  
 - I love exploring new technologies and staying up to date with AI trends!  
